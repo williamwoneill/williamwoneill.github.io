@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Detoxification
-permalink: /Detoxification/
+permalink: /detoxification/
 ---

@@ -1,0 +1,18 @@
+{% if include.links %}
+<h3>Articles</h3>
+{%endif%}
+
+{%- for art in include.links -%}
+
+    <div class="article-row">
+        <div class="article-left">
+            <div class="article-image"><img src="{{art.image-url}}"/></div>
+        </div>
+        <div class="article-right">
+            <h4><a href="{{art.url}}">{{art.title}}</a></h4>
+            {{art.summary}}
+        </div>
+
+    </div>
+
+{%- endfor -%}

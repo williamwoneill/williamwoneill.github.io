@@ -18,3 +18,7 @@ In no event shall Mirror River LLC be liable for any special, direct, indirect, 
 https://www.defeatingmold.com website may contain links to external websites that are not provided or maintained by or in any way affiliated with Mirror River LLC
 
 Please note that the Mirror River LLC does not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
+
+## Commission
+
+We may earn a commission for purchases made using our links.
