@@ -1,6 +1,3 @@
-$base-font-family: Roboto;
-
-$content-width:    1800px !default;
 
 .about-side{
     margin-bottom: 160px;
@@ -33,3 +30,10 @@ $content-width:    1800px !default;
   border-left: 1px #ddd solid;
 }
 
+
+
+@media only screen and (max-width: 600px){
+    .column-right{
+        display: none;
+    }
+}

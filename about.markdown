@@ -3,7 +3,7 @@ layout: default
 permalink: /about/
 ---
 
-![Dr. Robin](https://drive.google.com/uc?export=view&id=1Kh0W8_N1mb32NJHxWNsMIwIAB3nny1B5) 
+![Dr. Robin](/assets/images/robin.jpg) 
 
 Dr. Robin Thomson is a naturopathic physician who has been practicing medicine since 2005. She is both a primary care provider and an expert in treating patients with biotoxin illnesses like Lyme disease and mold illness.
 
