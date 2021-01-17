@@ -1,0 +1,32 @@
+---
+layout: page
+title: Background
+permalink: /background/
+---
+
+This is a blurb about the background
+
+<p>
+
+    sure be nice to show background articles here...
+
+</p>
+
+
+
+
+{%- for art in site.background_articles -%}
+
+    <div class="article-row">
+        <div class="article-left">
+            <div class="article-image"><img src="{{art.image-url}}"/></div>
+        </div>
+        <div class="article-right">
+            <h4><a href="{{art.url}}">{{art.title}}</a></h4>
+            {{art.summary}}
+        </div>
+
+    </div>
+
+
+{%- endfor -%}

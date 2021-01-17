@@ -30,7 +30,23 @@
   border-left: 1px #ddd solid;
 }
 
+.article-left{
+  flex: 20%;
+}
 
+.article-right{
+  flex: 80%;
+  padding-left: 16px;
+}
+
+.article-row{
+  margin-top: 16px;
+  display: flex;
+}
+
+.article-row img{
+  height: 100px;
+}
 
 @media only screen and (max-width: 600px){
     .column-right{
