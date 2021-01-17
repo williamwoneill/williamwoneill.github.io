@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="column-row">
+
+    <div class="post-content column-left">
+      {{ content }}
+    </div>
+
+    <div class="post-content column-right">
+      {%- include about_robin.html -%}
+    </div>
+
+  </div>
+
+</article>

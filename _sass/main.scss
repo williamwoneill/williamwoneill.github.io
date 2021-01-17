@@ -1,0 +1,31 @@
+.about-side{
+    margin-bottom: 160px;
+    margin-left: 8px;
+}
+
+.about-side-text {
+  margin-top: 8px;
+  color: #444;
+  font-size: small;
+}
+
+.column-row {
+  display: flex;
+}
+
+.column-row:after {
+  display: table;
+  clear: both;
+  display: flex;
+}
+
+.column-left {
+  flex: 75%;
+}
+
+.column-right {
+  padding-left: 8px;
+  flex: 25%;
+  border-left: 1px #ddd solid;
+}
+

@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Site title TBD
+title: Defeating Mold Illness
 email: drrobinthomson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dr. Thomson is  one of the most experienced doctors in the world in the field of environmental illness and related conditions, 
-  such as Lyme disease.  She has had extensive training in these areas and has been successfully treating patients with 
-  "biotoxin illnesses" since 2009.
+  Information to help you defeat and survive mold illnesses. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
