@@ -21,6 +21,7 @@
 }
 
 .column-left {
+  padding-right: 16px;
   flex: 75%;
 }
 
@@ -39,13 +40,18 @@
   padding-left: 16px;
 }
 
+.article-right h4{
+  margin-bottom: 4px;
+}
+
 .article-row{
-  margin-top: 16px;
+  margin-bottom: 24px;
   display: flex;
 }
 
 .article-row img{
   height: 100px;
+  padding-top: 8px;
 }
 
 @media only screen and (max-width: 600px){

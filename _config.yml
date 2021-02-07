@@ -36,6 +36,16 @@ plugins:
 collections:
   background_articles:
     output: true
+  approach_articles:
+    output: true
+  detox_articles:
+    output: true
+  cleaning_articles:
+    output: true
+  environment_articles:
+    output: true
+  therapies_articles:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

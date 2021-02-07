@@ -1,11 +1,13 @@
 toc:
     - title: 'Background'
       url: /background/
+    - title: 'My Approach'
+      url: '/approach/'
+    - title: 'Detox'
+      url: '/detoxification/'
     - title: 'Cleaning'
       url: '/cleaning/'
-    - title: 'Detoxification'
-      url: '/detoxification/'
     - title: 'Environment'
       url: '/environment/'
     - title: 'Therapies'
-      url: /advanced-therapies/
+      url: /therapies/

@@ -1,6 +1,12 @@
+
+
+{% comment %}
+WWO: I created this page to loop over all pages in the collection. It's a page listing and it 
+sorts the pages by creation date.
+{% endcomment %}
+
+
 {% if include.links %}
-<h3>Articles</h3>
-{%endif%}
 
 {%- for art in include.links -%}
 
@@ -16,3 +22,6 @@
     </div>
 
 {%- endfor -%}
+
+{%endif%}
+

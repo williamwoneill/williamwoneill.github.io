@@ -4,10 +4,8 @@
 layout: page
 ---
 
-
-We are putting this site together in early 2021. It is still very much under construction, and 
-great stuff is coming!
-
 Dr. Thomson is a respected professional in the study and treatmet of mold illnesses.
 This site contains valuable information from Dr. Thomson to better understand
 the complexities of mold illness, and how to cope and ultimately recover.
+
+Visit [our Background pages](/background) to further understand the basics of Mold Illness. 

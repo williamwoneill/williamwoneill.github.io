@@ -4,13 +4,6 @@ title: Background
 permalink: /background/
 ---
 
-This is a blurb about the background
-
-<p>
-
-    sure be nice to show background articles here...
-
-</p>
 
 
 {% include articles.html links=site.background_articles %}
