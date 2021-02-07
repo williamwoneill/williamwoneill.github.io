@@ -1,7 +1,7 @@
 ---
 layout: wwo_article
 date: 2012-01-17
-title: Detox Suppliments and Medications
+title: Detox Supplements and Medications
 permalink: /detox-supps-and-meds/
 image-url: "/assets/images/medicines.jpg"
 summary: >-
