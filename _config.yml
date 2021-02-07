@@ -47,6 +47,9 @@ collections:
   therapies_articles:
     output: true
 
+# WWO: Google Analytics
+google_analytics: G-H9MXWM0Z13
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
