@@ -14,7 +14,7 @@ Mycotoxins are made when mold grows in indoor spaces after getting wet or on sur
 
 Humans breathe these toxic substances in, or absorb them through the skin. Some people aren’t able to get rid of the toxins due to genetic factors [(see tests section)](/diagnostic-tests) or simply due to toxin overload. Toxins are circulated instead of being discarded, and people get sick and stay sick until these poisons are dealt with.
 
-Unfortunately, most doctors recognize that people can have an allergic response to mold, but not that it can affect nearly every body system in an inflammatory way. The type of mold illness I’m talking about here causes chronic fatigue and pain symptoms, amongst others (see symptom list here). Many people become so ill that they can’t work or go to school.  
+Unfortunately, most doctors recognize that people can have an allergic response to mold, but not that it can affect nearly every body system in an inflammatory way. The type of mold illness I’m talking about here causes chronic fatigue and pain symptoms, amongst others [(see symptom list)](/mold-illness-symptoms). Many people become so ill that they can’t work or go to school.  
 
 More and more doctors are now becoming educated in this field and can  recognize and diagnose mold illness, thanks in large part to people like Dr. Ritchie Shoemaker.  He was and is one of the most important researchers in the biotoxin illness field. Back in 2013, I was only the third doctor in the country to have completed his certification program. Now, my colleagues at ISEAI (the International Society for Environmental Illness) number in the hundreds; but we are still a relatively small group!
 

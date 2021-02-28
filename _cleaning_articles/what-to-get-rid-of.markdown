@@ -23,10 +23,10 @@ Even more than dust, paper is your big issue. It’s better to get rid of or sto
 If there are things you can’t bear to part with, you don’t have to throw them away!  If items have been in a moldy environment, store them in plastic-lidded bins outside of your home (in a garage or storage unit) until later. 
 
 Other items:
-Get rid of or store cloth furniture (impossible to clean properly); 
-Musical instruments (if you can get to all the surfaces to wipe down, fine, but otherwise store);
-Rugs must be cleaned;
-Carpet may need to be replaced with hard surface flooring if it’s older;
-Mattresses can usually be saved by covering with an allergen dust cover (link); 
-Shoes can be washed in a washing machine if they’re cloth; leather shoes can be cleaned by wiping them down;
-Computers and laptops usually are just fine with surface wiping (see tips for cleaning hard surfaces).
+- Get rid of or store cloth furniture (impossible to clean properly)
+- Musical instruments (if you can get to all the surfaces to wipe down, fine, but otherwise store)
+- Rugs must be cleaned
+- Carpet may need to be replaced with hard surface flooring if it’s older
+- Mattresses can usually be saved by covering with an allergen dust cover 
+- Shoes can be washed in a washing machine if they’re cloth; leather shoes can be cleaned by wiping them down;
+- Computers and laptops usually are just fine with surface wiping [(see tips for cleaning hard surfaces)](/surface-cleaning).

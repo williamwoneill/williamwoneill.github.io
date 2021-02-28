@@ -41,7 +41,7 @@ __Thyroglobulin Antibodies__ Measures thyroid antibodies, which may be elevated 
 __Tissue Transglutaminase Antibody__ Measures antibodies to gluten and gliadin in wheat, which may be elevated in biotoxin illness.
 25-OH Vitamin D Often low in biotoxin illness as vitamin D is hormone that your body uses up during inflammation.
 
-__Estradiol, Progesterone, Free and Total Testosterone__ Often low in biotoxin illness as hormone production is compromised with low pituitary hormone production, especially MSH (see biotoxin tests).
+__Estradiol, Progesterone, Free and Total Testosterone__ Often low in biotoxin illness as hormone production is compromised with low pituitary hormone production, especially MSH.
 
 
 

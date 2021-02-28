@@ -49,26 +49,6 @@ While using our Service, we may ask you to provide us with certain personally id
 
 #### Email address
 
-#### Cookies and Usage Data
-We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or the instructions provided in any email we send.
-
-### Usage Data
-We may also collect information on how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
-
-### Tracking & Cookies Data
-We use cookies and similar tracking technologies to track the activity on our Service and we hold certain information.
-
-Cookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyse our Service.
-
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
-
-Examples of Cookies we may use:
-
-- Session Cookies. We use Session Cookies to operate our Service.
-- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- Security Cookies. We use Security Cookies for security purposes.
-- Advertising Cookies. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
-
 ## Use of Data
 Mirror River LLC uses the collected data for various purposes:
 

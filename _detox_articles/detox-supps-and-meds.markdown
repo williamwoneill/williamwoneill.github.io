@@ -18,13 +18,12 @@ Cholestyramine comes as a powder that is mixed with water, or mixed in a food li
 
 Sometimes a person does not tolerate either prescription, and we have to start with less strong supplements. Unfortunately, not all supplements bind all types of toxins. When possible, it helps to have a urine mycotoxin test so that I know which ones are most prominent, and can make choices based on the type of toxin. Some examples of toxin-specific pairs are:
 
-- Ochratoxin - charcoal; 
-- Aflatoxins - charcoal and bentonite clay; 
-- Trichothecenes - charcoal and possibly chlorella; 
-- Gliotoxins - bentonite clay, charcoal, chlorella; NAC (n-acetyl cysteine) in spray or orally can inactivate gliotoxin;
+- Ochratoxin - [charcoal](https://amzn.to/3054Hhj){:target="_blank"} 
+- Aflatoxins - charcoal and bentonite clay 
+- Trichothecenes - charcoal and possibly chlorella 
+- Gliotoxins - bentonite clay, charcoal, chlorella 
+- NAC (n-acetyl cysteine) in spray or orally can inactivate gliotoxin
 - BINDER BLEND contains bentonite clay, charcoal, chlorella, and slippery elm and is a good choice to cover several types.  I give it 2 hours away from food on either side. 
-
-(LINKS TO MY FAVORITES)
 
 Most of the time I try to use over-the-counters as a step towards tolerating Cholestyramine or Welchol.  The pharmaceuticals are simply better binders. 
 
